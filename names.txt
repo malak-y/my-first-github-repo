@@ -2,3 +2,4 @@ Alice
 Bob
 Charlie
 Diana
+Signed commit test
